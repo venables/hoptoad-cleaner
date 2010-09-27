@@ -1,0 +1,17 @@
+h2. Hoptoad Cleaner
+
+A simple "Resolve All" script for Hoptoad.  
+
+h3. Installation
+
+* Update 'cleaner.rb' with your Hoptoad API key and subdomain.  
+* Then run:
+** gem install 'rest-client'
+** gem install 'crack'
+** ruby ./cleaner.rb
+
+h3. More info:
+
+This code was largely inspired by 'Stoptoad': http://github.com/gordonbisnor/Stoptoad
+
+However, I was hesitant to use an untrusted web service with my API key, so I converted it to a script.
