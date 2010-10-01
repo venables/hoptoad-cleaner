@@ -4,8 +4,10 @@
 #
 # A simple "Resolve All" script for Hoptoad
 #
+# Matt Venables 
+# mattvenables@gmail.com
+# http://veg.etabl.es/
 # http://github.com/vegetables/hoptoad-cleaner
-# @author Matt Venables <mattvenables@gmail.com>
 
 API_KEY = 'abc123abc123abc123'
 SUBDOMAIN = 'my-app'
